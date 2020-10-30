@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FPGA-devkit)(type Legacy)(uri ${KIPRJMOD}/FPGA-devkit.lib)(options "")(descr ""))
+)
